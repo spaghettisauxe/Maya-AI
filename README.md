@@ -1,2 +1,2 @@
 # Maya-AI
-Maya — A smart, lightweight chatbot for natural conversations n.
+Maya — A gentle, supportive chatbot for conversation, reflection, and mental wellness.
